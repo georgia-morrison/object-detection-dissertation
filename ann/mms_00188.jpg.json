@@ -1,0 +1,92 @@
+{
+    "description": "This is an empty description as Darknet YOLO labels don't have one.",
+    "tags": [
+        {
+            "id": 118614163,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:43:59.668Z",
+            "updatedAt": "2020-06-06T12:43:59.668Z"
+        }
+    ],
+    "size": {
+        "height": 1304,
+        "width": 1560
+    },
+    "objects": [
+        {
+            "id": 889960623,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:43:59.668Z",
+            "updatedAt": "2020-06-06T12:43:59.668Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1211,
+                        906
+                    ],
+                    [
+                        1285,
+                        1004
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889960622,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:43:59.668Z",
+            "updatedAt": "2020-06-06T12:43:59.668Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1186,
+                        742
+                    ],
+                    [
+                        1214,
+                        778
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889960621,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:43:59.668Z",
+            "updatedAt": "2020-06-06T12:43:59.668Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        610,
+                        805
+                    ],
+                    [
+                        658,
+                        863
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118619610,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:50:37.448Z",
+            "updatedAt": "2021-05-28T12:50:37.448Z"
+        }
+    ],
+    "size": {
+        "height": 1480,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890070235,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992282,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        950,
+                        538
+                    ],
+                    [
+                        1141,
+                        883
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070234,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1662,
+                        547
+                    ],
+                    [
+                        1805,
+                        691
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070233,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992281,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1873,
+                        199
+                    ],
+                    [
+                        1907,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070232,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992280,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1838,
+                        209
+                    ],
+                    [
+                        1869,
+                        246
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

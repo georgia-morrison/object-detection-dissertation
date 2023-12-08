@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118619609,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:50:37.445Z",
+            "updatedAt": "2021-05-28T12:50:37.445Z"
+        }
+    ],
+    "size": {
+        "height": 1480,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890070231,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1700,
+                        608
+                    ],
+                    [
+                        1834,
+                        740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070230,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992279,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1506,
+                        292
+                    ],
+                    [
+                        1524,
+                        324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070229,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992278,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1537,
+                        282
+                    ],
+                    [
+                        1558,
+                        322
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890070228,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-05-28T12:45:41.630Z",
+            "updatedAt": "2021-05-28T12:45:41.630Z",
+            "tags": [
+                {
+                    "id": 135992277,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-05-28T12:45:41.630Z",
+                    "updatedAt": "2021-05-28T12:45:41.630Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1559,
+                        281
+                    ],
+                    [
+                        1578,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

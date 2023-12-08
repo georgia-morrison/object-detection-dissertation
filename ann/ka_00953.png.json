@@ -1,0 +1,54 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118623530,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-30T09:23:42.367Z",
+            "updatedAt": "2021-10-30T09:23:42.367Z"
+        }
+    ],
+    "size": {
+        "height": 1480,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890144220,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-30T09:18:53.317Z",
+            "updatedAt": "2021-10-30T09:18:53.317Z",
+            "tags": [
+                {
+                    "id": 136001725,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-10-30T09:18:53.318Z",
+                    "updatedAt": "2021-10-30T09:18:53.318Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1961,
+                        682
+                    ],
+                    [
+                        2060,
+                        821
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
