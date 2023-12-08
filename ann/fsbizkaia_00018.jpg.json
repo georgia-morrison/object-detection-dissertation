@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118622538,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:19:55.399Z",
+            "updatedAt": "2021-10-01T16:19:55.399Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890124414,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:23.522Z",
+            "updatedAt": "2021-10-01T16:18:23.522Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        326,
+                        768
+                    ],
+                    [
+                        390,
+                        858
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890124413,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:23.522Z",
+            "updatedAt": "2021-10-01T16:18:23.522Z",
+            "tags": [
+                {
+                    "id": 136000036,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-10-01T16:18:23.523Z",
+                    "updatedAt": "2021-10-01T16:18:23.523Z"
+                }
+            ],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        894,
+                        704
+                    ],
+                    [
+                        911,
+                        737
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890124412,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:23.522Z",
+            "updatedAt": "2021-10-01T16:18:23.522Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1103,
+                        683
+                    ],
+                    [
+                        1115,
+                        710
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

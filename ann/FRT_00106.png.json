@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621283,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:18:33.685Z",
+            "updatedAt": "2021-07-29T08:18:33.685Z"
+        }
+    ],
+    "size": {
+        "height": 1096,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890101781,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:38.726Z",
+            "updatedAt": "2021-07-29T08:13:38.726Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1702,
+                        622
+                    ],
+                    [
+                        1758,
+                        714
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890101780,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:38.726Z",
+            "updatedAt": "2021-07-29T08:13:38.726Z",
+            "tags": [
+                {
+                    "id": 135996661,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-07-29T08:13:38.727Z",
+                    "updatedAt": "2021-07-29T08:13:38.727Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1090,
+                        533
+                    ],
+                    [
+                        1121,
+                        596
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

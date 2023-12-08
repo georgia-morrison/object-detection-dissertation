@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621447,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:18:36.007Z",
+            "updatedAt": "2021-07-29T08:18:36.007Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890103731,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:40.443Z",
+            "updatedAt": "2021-07-29T08:13:40.443Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        605,
+                        662
+                    ],
+                    [
+                        663,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890103730,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:40.443Z",
+            "updatedAt": "2021-07-29T08:13:40.443Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        884,
+                        645
+                    ],
+                    [
+                        906,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890103729,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:40.443Z",
+            "updatedAt": "2021-07-29T08:13:40.443Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1497,
+                        664
+                    ],
+                    [
+                        1553,
+                        732
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890103728,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:40.443Z",
+            "updatedAt": "2021-07-29T08:13:40.443Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1285,
+                        651
+                    ],
+                    [
+                        1304,
+                        678
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
