@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118622412,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:19:51.830Z",
+            "updatedAt": "2021-10-01T16:19:51.830Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890122321,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:17.497Z",
+            "updatedAt": "2021-10-01T16:18:17.497Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        715,
+                        709
+                    ],
+                    [
+                        753,
+                        768
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890122320,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:17.501Z",
+            "updatedAt": "2021-10-01T16:18:17.501Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        931,
+                        683
+                    ],
+                    [
+                        951,
+                        717
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890122319,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:17.501Z",
+            "updatedAt": "2021-10-01T16:18:17.501Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1088,
+                        673
+                    ],
+                    [
+                        1100,
+                        696
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890122318,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-10-01T16:18:17.501Z",
+            "updatedAt": "2021-10-01T16:18:17.501Z",
+            "tags": [
+                {
+                    "id": 135999801,
+                    "tagId": 30143179,
+                    "name": "knocked_over",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-10-01T16:18:17.502Z",
+                    "updatedAt": "2021-10-01T16:18:17.502Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1030,
+                        673
+                    ],
+                    [
+                        1043,
+                        683
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
