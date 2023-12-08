@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118615897,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:52:04.544Z",
+            "updatedAt": "2020-10-10T12:52:04.544Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 889994298,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:29:42.858Z",
+            "updatedAt": "2020-10-10T12:29:42.858Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1956,
+                        356
+                    ],
+                    [
+                        2063,
+                        473
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889994297,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:29:42.858Z",
+            "updatedAt": "2020-10-10T12:29:42.858Z",
+            "tags": [
+                {
+                    "id": 135979028,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-10-10T12:29:42.860Z",
+                    "updatedAt": "2020-10-10T12:29:42.860Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        631
+                    ],
+                    [
+                        457,
+                        779
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
