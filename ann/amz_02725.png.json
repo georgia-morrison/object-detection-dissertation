@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118615464,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-05T19:08:26.312Z",
+            "updatedAt": "2020-10-05T19:08:26.312Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 889983211,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-05T19:04:46.097Z",
+            "updatedAt": "2020-10-05T19:04:46.097Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2496,
+                        271
+                    ],
+                    [
+                        2557,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889983210,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-05T19:04:46.097Z",
+            "updatedAt": "2020-10-05T19:04:46.097Z",
+            "tags": [
+                {
+                    "id": 135977349,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-10-05T19:04:46.097Z",
+                    "updatedAt": "2020-10-05T19:04:46.097Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2058,
+                        340
+                    ],
+                    [
+                        2137,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889983209,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-05T19:04:46.097Z",
+            "updatedAt": "2020-10-05T19:04:46.097Z",
+            "tags": [
+                {
+                    "id": 135977348,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-10-05T19:04:46.097Z",
+                    "updatedAt": "2020-10-05T19:04:46.097Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        989,
+                        557
+                    ],
+                    [
+                        1172,
+                        770
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

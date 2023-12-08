@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118616778,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:48:45.359Z",
+            "updatedAt": "2020-11-12T08:48:45.359Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890008123,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:28:48.320Z",
+            "updatedAt": "2020-11-12T08:28:48.320Z",
+            "tags": [
+                {
+                    "id": 135980965,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-11-12T08:28:48.320Z",
+                    "updatedAt": "2020-11-12T08:28:48.320Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1996,
+                        315
+                    ],
+                    [
+                        2076,
+                        403
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890008122,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:28:48.320Z",
+            "updatedAt": "2020-11-12T08:28:48.320Z",
+            "tags": [
+                {
+                    "id": 135980963,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-11-12T08:28:48.320Z",
+                    "updatedAt": "2020-11-12T08:28:48.320Z"
+                },
+                {
+                    "id": 135980964,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-11-12T08:28:48.320Z",
+                    "updatedAt": "2020-11-12T08:28:48.320Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        685,
+                        583
+                    ],
+                    [
+                        874,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
