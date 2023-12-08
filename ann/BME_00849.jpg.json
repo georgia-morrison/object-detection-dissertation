@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621803,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:18:41.809Z",
+            "updatedAt": "2021-07-29T08:18:41.809Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890108074,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:44.285Z",
+            "updatedAt": "2021-07-29T08:13:44.285Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        688,
+                        1003
+                    ],
+                    [
+                        780,
+                        1125
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890108073,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:44.285Z",
+            "updatedAt": "2021-07-29T08:13:44.285Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        786,
+                        1033
+                    ],
+                    [
+                        898,
+                        1174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890108072,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:44.285Z",
+            "updatedAt": "2021-07-29T08:13:44.285Z",
+            "tags": [
+                {
+                    "id": 135998059,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-07-29T08:13:44.286Z",
+                    "updatedAt": "2021-07-29T08:13:44.286Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        925,
+                        983
+                    ],
+                    [
+                        1059,
+                        1220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890108071,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:44.285Z",
+            "updatedAt": "2021-07-29T08:13:44.285Z",
+            "tags": [
+                {
+                    "id": 135998058,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-07-29T08:13:44.286Z",
+                    "updatedAt": "2021-07-29T08:13:44.286Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1043,
+                        1008
+                    ],
+                    [
+                        1157,
+                        1220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

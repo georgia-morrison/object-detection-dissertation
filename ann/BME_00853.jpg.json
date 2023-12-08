@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118620271,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:48:08.561Z",
+            "updatedAt": "2021-06-24T16:48:08.561Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890084838,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:41:00.940Z",
+            "updatedAt": "2021-06-24T16:41:00.940Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        800
+                    ],
+                    [
+                        622,
+                        1140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890084837,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:41:00.940Z",
+            "updatedAt": "2021-06-24T16:41:00.940Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1058,
+                        728
+                    ],
+                    [
+                        1198,
+                        926
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890084836,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:41:00.940Z",
+            "updatedAt": "2021-06-24T16:41:00.940Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1459,
+                        611
+                    ],
+                    [
+                        1623,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
