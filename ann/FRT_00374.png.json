@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621579,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:18:37.832Z",
+            "updatedAt": "2021-07-29T08:18:37.832Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890105060,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1769,
+                        689
+                    ],
+                    [
+                        1797,
+                        724
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890105059,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1684,
+                        685
+                    ],
+                    [
+                        1729,
+                        745
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890105058,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1253,
+                        622
+                    ],
+                    [
+                        1265,
+                        646
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

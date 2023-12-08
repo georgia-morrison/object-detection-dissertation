@@ -1,0 +1,68 @@
+{
+    "description": "This is an empty description as Darknet YOLO labels don't have one.",
+    "tags": [
+        {
+            "id": 118614393,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:44:01.788Z",
+            "updatedAt": "2020-06-06T12:44:01.788Z"
+        }
+    ],
+    "size": {
+        "height": 1304,
+        "width": 1560
+    },
+    "objects": [
+        {
+            "id": 889963004,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:44:01.788Z",
+            "updatedAt": "2020-06-06T12:44:01.788Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1238,
+                        798
+                    ],
+                    [
+                        1300,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889963003,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-06-06T12:44:01.788Z",
+            "updatedAt": "2020-06-06T12:44:01.788Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        626,
+                        977
+                    ],
+                    [
+                        756,
+                        1135
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

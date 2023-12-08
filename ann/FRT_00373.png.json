@@ -1,0 +1,126 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621580,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:18:37.836Z",
+            "updatedAt": "2021-07-29T08:18:37.836Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890105064,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1249,
+                        666
+                    ],
+                    [
+                        1276,
+                        700
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890105063,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1346,
+                        663
+                    ],
+                    [
+                        1367,
+                        689
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890105062,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [
+                {
+                    "id": 135997650,
+                    "tagId": 30143179,
+                    "name": "knocked_over",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-07-29T08:13:41.507Z",
+                    "updatedAt": "2021-07-29T08:13:41.507Z"
+                }
+            ],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        629,
+                        720
+                    ],
+                    [
+                        724,
+                        805
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890105061,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-07-29T08:13:41.507Z",
+            "updatedAt": "2021-07-29T08:13:41.507Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        967,
+                        651
+                    ],
+                    [
+                        974,
+                        673
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

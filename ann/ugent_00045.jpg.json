@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118623655,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-11-14T14:10:21.018Z",
+            "updatedAt": "2021-11-14T14:10:21.018Z"
+        }
+    ],
+    "size": {
+        "height": 856,
+        "width": 1304
+    },
+    "objects": [
+        {
+            "id": 890147844,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-11-14T14:08:16.252Z",
+            "updatedAt": "2021-11-14T14:08:16.252Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        472
+                    ],
+                    [
+                        708,
+                        579
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890147843,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-11-14T14:08:16.252Z",
+            "updatedAt": "2021-11-14T14:08:16.252Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        900,
+                        505
+                    ],
+                    [
+                        982,
+                        593
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890147842,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-11-14T14:08:16.252Z",
+            "updatedAt": "2021-11-14T14:08:16.252Z",
+            "tags": [
+                {
+                    "id": 136002205,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-11-14T14:08:16.252Z",
+                    "updatedAt": "2021-11-14T14:08:16.252Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        465
+                    ],
+                    [
+                        223,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

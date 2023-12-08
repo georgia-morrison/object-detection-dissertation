@@ -1,0 +1,192 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 123186329,
+            "tagId": 30235954,
+            "name": "issue: inaccurate bounding boxes",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.268Z",
+            "updatedAt": "2022-04-28T08:12:23.268Z"
+        },
+        {
+            "id": 123186330,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.268Z",
+            "updatedAt": "2022-04-28T08:12:23.268Z"
+        }
+    ],
+    "size": {
+        "height": 1207,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 929143087,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        206,
+                        718
+                    ],
+                    [
+                        316,
+                        859
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929143086,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1056,
+                        525
+                    ],
+                    [
+                        1119,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929143085,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1415,
+                        480
+                    ],
+                    [
+                        1462,
+                        536
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929143084,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1752,
+                        474
+                    ],
+                    [
+                        1784,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929143083,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1972,
+                        473
+                    ],
+                    [
+                        1988,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929143082,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:23.269Z",
+            "updatedAt": "2022-04-28T08:12:23.269Z",
+            "tags": [
+                {
+                    "id": 139753068,
+                    "tagId": 30143179,
+                    "name": "knocked_over",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:23.269Z",
+                    "updatedAt": "2022-04-28T08:12:23.269Z"
+                },
+                {
+                    "id": 139753069,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:23.269Z",
+                    "updatedAt": "2022-04-28T08:12:23.269Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1933,
+                        474
+                    ],
+                    [
+                        1955,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
