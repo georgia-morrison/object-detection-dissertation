@@ -1,0 +1,145 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118617720,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-01-11T09:41:23.707Z",
+            "updatedAt": "2021-01-11T09:41:23.707Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890023463,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-01-10T22:56:16.341Z",
+            "updatedAt": "2021-01-10T22:56:16.341Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        983,
+                        432
+                    ],
+                    [
+                        1071,
+                        526
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890023462,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-01-10T22:56:16.341Z",
+            "updatedAt": "2021-01-10T22:56:16.341Z",
+            "tags": [
+                {
+                    "id": 135983678,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-01-10T22:56:16.342Z",
+                    "updatedAt": "2021-01-10T22:56:16.342Z"
+                },
+                {
+                    "id": 135983679,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-01-10T22:56:16.342Z",
+                    "updatedAt": "2021-01-10T22:56:16.342Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1721,
+                        418
+                    ],
+                    [
+                        1772,
+                        483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890023461,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-01-10T22:56:16.341Z",
+            "updatedAt": "2021-01-10T22:56:16.341Z",
+            "tags": [
+                {
+                    "id": 135983677,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-01-10T22:56:16.342Z",
+                    "updatedAt": "2021-01-10T22:56:16.342Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2498,
+                        545
+                    ],
+                    [
+                        2608,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890023460,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-01-10T22:56:16.341Z",
+            "updatedAt": "2021-01-10T22:56:16.341Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2378,
+                        427
+                    ],
+                    [
+                        2426,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
