@@ -1,0 +1,186 @@
+{
+    "classes": [
+        {
+            "title": "seg_orange_cone",
+            "shape": "bitmap",
+            "color": "#FF8000",
+            "geometry_config": {},
+            "id": 9993505,
+            "hotkey": ""
+        },
+        {
+            "title": "unknown_cone",
+            "shape": "rectangle",
+            "color": "#3BDB0F",
+            "geometry_config": {},
+            "id": 9993514,
+            "hotkey": ""
+        },
+        {
+            "title": "yellow_cone",
+            "shape": "rectangle",
+            "color": "#FFFF00",
+            "geometry_config": {},
+            "id": 9993506,
+            "hotkey": ""
+        },
+        {
+            "title": "seg_large_orange_cone",
+            "shape": "bitmap",
+            "color": "#FF002A",
+            "geometry_config": {},
+            "id": 9993507,
+            "hotkey": ""
+        },
+        {
+            "title": "seg_blue_cone",
+            "shape": "bitmap",
+            "color": "#2A00FF",
+            "geometry_config": {},
+            "id": 9993508,
+            "hotkey": ""
+        },
+        {
+            "title": "seg_unknown_cone",
+            "shape": "bitmap",
+            "color": "#3BDB0F",
+            "geometry_config": {},
+            "id": 9993509,
+            "hotkey": ""
+        },
+        {
+            "title": "seg_yellow_cone",
+            "shape": "bitmap",
+            "color": "#FFFF00",
+            "geometry_config": {},
+            "id": 9993510,
+            "hotkey": ""
+        },
+        {
+            "title": "blue_cone",
+            "shape": "rectangle",
+            "color": "#2A00FF",
+            "geometry_config": {},
+            "id": 9993511,
+            "hotkey": ""
+        },
+        {
+            "title": "orange_cone",
+            "shape": "rectangle",
+            "color": "#FF8000",
+            "geometry_config": {},
+            "id": 9993512,
+            "hotkey": ""
+        },
+        {
+            "title": "large_orange_cone",
+            "shape": "rectangle",
+            "color": "#FF002A",
+            "geometry_config": {},
+            "id": 9993513,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "issue",
+            "value_type": "any_string",
+            "color": "#FF0000",
+            "id": 30143175,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "resolved",
+            "value_type": "none",
+            "color": "#00FF00",
+            "id": 30143176,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "fixed_issue",
+            "value_type": "any_number",
+            "color": "#0000FF",
+            "id": 30143177,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "train",
+            "value_type": "none",
+            "color": "#0F8A60",
+            "id": 30143178,
+            "hotkey": "",
+            "applicable_type": "imagesOnly",
+            "classes": []
+        },
+        {
+            "name": "knocked_over",
+            "value_type": "none",
+            "color": "#8421ED",
+            "id": 30143179,
+            "hotkey": "",
+            "applicable_type": "objectsOnly",
+            "classes": []
+        },
+        {
+            "name": "test",
+            "value_type": "none",
+            "color": "#0F258A",
+            "id": 30143180,
+            "hotkey": "",
+            "applicable_type": "imagesOnly",
+            "classes": []
+        },
+        {
+            "name": "sticker_band_removed",
+            "value_type": "none",
+            "color": "#7ED321",
+            "id": 30143181,
+            "hotkey": "",
+            "applicable_type": "objectsOnly",
+            "classes": []
+        },
+        {
+            "name": "truncated",
+            "value_type": "none",
+            "color": "#AC5FC4",
+            "id": 30143182,
+            "hotkey": "",
+            "applicable_type": "objectsOnly",
+            "classes": []
+        },
+        {
+            "name": "issue: inaccurate bounding boxes",
+            "value_type": "none",
+            "color": "#D0021B",
+            "id": 30235954,
+            "hotkey": "I",
+            "applicable_type": "imagesOnly",
+            "classes": []
+        },
+        {
+            "name": "issue: missing bounding boxes",
+            "value_type": "none",
+            "color": "#C50D28",
+            "id": 30235955,
+            "hotkey": "M",
+            "applicable_type": "imagesOnly",
+            "classes": []
+        },
+        {
+            "name": "issue: label all the cones up to around 50 meters or a minimum of 100 square pixels",
+            "value_type": "none",
+            "color": "#42AFC2",
+            "id": 30235956,
+            "hotkey": "K",
+            "applicable_type": "imagesOnly",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}
