@@ -1,0 +1,812 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 123186012,
+            "tagId": 30235954,
+            "name": "issue: inaccurate bounding boxes",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z"
+        },
+        {
+            "id": 123186013,
+            "tagId": 30235955,
+            "name": "issue: missing bounding boxes",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z"
+        },
+        {
+            "id": 123186014,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z"
+        }
+    ],
+    "size": {
+        "height": 1090,
+        "width": 1720
+    },
+    "objects": [
+        {
+            "id": 929139534,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1413,
+                        406
+                    ],
+                    [
+                        1491,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139533,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [
+                {
+                    "id": 139752729,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:21.017Z",
+                    "updatedAt": "2022-04-28T08:12:21.017Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1051,
+                        383
+                    ],
+                    [
+                        1074,
+                        437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139532,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1006,
+                        357
+                    ],
+                    [
+                        1032,
+                        398
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139531,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1085,
+                        326
+                    ],
+                    [
+                        1103,
+                        357
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139530,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1213,
+                        294
+                    ],
+                    [
+                        1230,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139529,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        628,
+                        403
+                    ],
+                    [
+                        644,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139528,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        261,
+                        652
+                    ],
+                    [
+                        332,
+                        746
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139527,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        879,
+                        352
+                    ],
+                    [
+                        896,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139526,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1035,
+                        315
+                    ],
+                    [
+                        1046,
+                        336
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139525,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.017Z",
+            "updatedAt": "2022-04-28T08:12:21.017Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1302,
+                        267
+                    ],
+                    [
+                        1313,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139524,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1502,
+                        240
+                    ],
+                    [
+                        1514,
+                        256
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139523,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        474
+                    ],
+                    [
+                        570,
+                        562
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139522,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [
+                {
+                    "id": 139752728,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:21.017Z",
+                    "updatedAt": "2022-04-28T08:12:21.017Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1030,
+                        351
+                    ],
+                    [
+                        1060,
+                        431
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139521,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1067,
+                        353
+                    ],
+                    [
+                        1117,
+                        441
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139520,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1390,
+                        263
+                    ],
+                    [
+                        1403,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139519,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1559,
+                        242
+                    ],
+                    [
+                        1571,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139518,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        470
+                    ],
+                    [
+                        424,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139517,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        496
+                    ],
+                    [
+                        286,
+                        522
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139516,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [
+                {
+                    "id": 139752727,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:21.017Z",
+                    "updatedAt": "2022-04-28T08:12:21.017Z"
+                }
+            ],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        458
+                    ],
+                    [
+                        570,
+                        537
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139515,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        216,
+                        496
+                    ],
+                    [
+                        228,
+                        516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139514,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        442
+                    ],
+                    [
+                        447,
+                        463
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139513,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        838,
+                        347
+                    ],
+                    [
+                        849,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139512,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        813,
+                        342
+                    ],
+                    [
+                        821,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139511,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        795,
+                        340
+                    ],
+                    [
+                        803,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139510,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        780,
+                        338
+                    ],
+                    [
+                        787,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139509,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        346
+                    ],
+                    [
+                        757,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139508,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        706,
+                        354
+                    ],
+                    [
+                        713,
+                        365
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139507,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        648,
+                        386
+                    ],
+                    [
+                        660,
+                        404
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139506,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        659,
+                        374
+                    ],
+                    [
+                        668,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139505,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        667,
+                        365
+                    ],
+                    [
+                        674,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929139504,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:21.016Z",
+            "updatedAt": "2022-04-28T08:12:21.016Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        373
+                    ],
+                    [
+                        650,
+                        385
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 123186176,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z"
+        }
+    ],
+    "size": {
+        "height": 856,
+        "width": 1304
+    },
+    "objects": [
+        {
+            "id": 929141574,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        982,
+                        442
+                    ],
+                    [
+                        1071,
+                        558
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929141573,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1017,
+                        312
+                    ],
+                    [
+                        1060,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929141572,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        867,
+                        275
+                    ],
+                    [
+                        891,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929141571,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        584,
+                        339
+                    ],
+                    [
+                        615,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 929141570,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2022-04-28T08:12:22.448Z",
+            "updatedAt": "2022-04-28T08:12:22.448Z",
+            "tags": [
+                {
+                    "id": 139752955,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2022-04-28T08:12:22.449Z",
+                    "updatedAt": "2022-04-28T08:12:22.449Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1156,
+                        233
+                    ],
+                    [
+                        1164,
+                        259
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

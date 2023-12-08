@@ -1,0 +1,102 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118615991,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-19T19:17:18.633Z",
+            "updatedAt": "2020-10-19T19:17:18.633Z"
+        }
+    ],
+    "size": {
+        "height": 1000,
+        "width": 1560
+    },
+    "objects": [
+        {
+            "id": 889995339,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-19T19:12:24.373Z",
+            "updatedAt": "2020-10-19T19:12:24.373Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        644,
+                        599
+                    ],
+                    [
+                        828,
+                        799
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889995338,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-19T19:12:24.373Z",
+            "updatedAt": "2020-10-19T19:12:24.373Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        815,
+                        242
+                    ],
+                    [
+                        935,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889995337,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-19T19:12:24.373Z",
+            "updatedAt": "2020-10-19T19:12:24.373Z",
+            "tags": [
+                {
+                    "id": 135979215,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-10-19T19:12:24.374Z",
+                    "updatedAt": "2020-10-19T19:12:24.374Z"
+                }
+            ],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        880,
+                        140
+                    ],
+                    [
+                        966,
+                        187
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
