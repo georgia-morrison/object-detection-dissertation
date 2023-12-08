@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118621018,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-07-14T05:39:40.387Z",
+            "updatedAt": "2021-07-14T05:39:40.387Z"
+        }
+    ],
+    "size": {
+        "height": 877,
+        "width": 1342
+    },
+    "objects": [
+        {
+            "id": 890099488,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-07-14T05:34:26.579Z",
+            "updatedAt": "2021-07-14T05:34:26.579Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        405,
+                        321
+                    ],
+                    [
+                        560,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890099487,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-07-14T05:34:26.579Z",
+            "updatedAt": "2021-07-14T05:34:26.579Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        730,
+                        328
+                    ],
+                    [
+                        875,
+                        511
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890099486,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-07-14T05:34:26.579Z",
+            "updatedAt": "2021-07-14T05:34:26.579Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        539,
+                        424
+                    ],
+                    [
+                        718,
+                        663
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

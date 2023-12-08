@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118620287,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:48:08.635Z",
+            "updatedAt": "2021-06-24T16:48:08.635Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890085260,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:41:00.940Z",
+            "updatedAt": "2021-06-24T16:41:00.940Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        304,
+                        782
+                    ],
+                    [
+                        458,
+                        962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890085259,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-06-24T16:41:00.940Z",
+            "updatedAt": "2021-06-24T16:41:00.940Z",
+            "tags": [
+                {
+                    "id": 135994290,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-06-24T16:41:00.942Z",
+                    "updatedAt": "2021-06-24T16:41:00.942Z"
+                }
+            ],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1729,
+                        1084
+                    ],
+                    [
+                        1851,
+                        1220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
