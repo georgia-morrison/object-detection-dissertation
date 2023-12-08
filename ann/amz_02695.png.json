@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118617139,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-12-01T10:58:59.493Z",
+            "updatedAt": "2020-12-01T10:58:59.493Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890015787,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-12-01T09:05:34.128Z",
+            "updatedAt": "2020-12-01T09:05:34.128Z",
+            "tags": [
+                {
+                    "id": 135982277,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-12-01T09:05:34.129Z",
+                    "updatedAt": "2020-12-01T09:05:34.129Z"
+                },
+                {
+                    "id": 135982278,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-12-01T09:05:34.129Z",
+                    "updatedAt": "2020-12-01T09:05:34.129Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2693,
+                        283
+                    ],
+                    [
+                        2731,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890015786,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-12-01T09:05:34.128Z",
+            "updatedAt": "2020-12-01T09:05:34.128Z",
+            "tags": [
+                {
+                    "id": 135982276,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-12-01T09:05:34.129Z",
+                    "updatedAt": "2020-12-01T09:05:34.129Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2456,
+                        319
+                    ],
+                    [
+                        2532,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890015785,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-12-01T09:05:34.128Z",
+            "updatedAt": "2020-12-01T09:05:34.128Z",
+            "tags": [
+                {
+                    "id": 135982275,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2020-12-01T09:05:34.129Z",
+                    "updatedAt": "2020-12-01T09:05:34.129Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1429,
+                        474
+                    ],
+                    [
+                        1577,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

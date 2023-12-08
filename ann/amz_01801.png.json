@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118616579,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:54:25.367Z",
+            "updatedAt": "2020-11-02T08:54:25.367Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890003181,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:46.035Z",
+            "updatedAt": "2020-11-02T08:42:46.035Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2506,
+                        306
+                    ],
+                    [
+                        2607,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890003180,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:46.035Z",
+            "updatedAt": "2020-11-02T08:42:46.035Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1522,
+                        461
+                    ],
+                    [
+                        1689,
+                        652
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890003179,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:46.035Z",
+            "updatedAt": "2020-11-02T08:42:46.035Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2595,
+                        193
+                    ],
+                    [
+                        2622,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

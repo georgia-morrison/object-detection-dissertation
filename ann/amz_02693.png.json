@@ -1,0 +1,88 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118619077,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-04-16T19:55:32.711Z",
+            "updatedAt": "2021-04-16T19:55:32.711Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890057137,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-04-16T19:51:14.311Z",
+            "updatedAt": "2021-04-16T19:51:14.311Z",
+            "tags": [
+                {
+                    "id": 135990433,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-04-16T19:51:14.313Z",
+                    "updatedAt": "2021-04-16T19:51:14.313Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1860,
+                        392
+                    ],
+                    [
+                        1954,
+                        512
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890057136,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2021-04-16T19:51:14.311Z",
+            "updatedAt": "2021-04-16T19:51:14.311Z",
+            "tags": [
+                {
+                    "id": 135990432,
+                    "tagId": 30143181,
+                    "name": "sticker_band_removed",
+                    "value": null,
+                    "labelerLogin": "fsocov2",
+                    "createdAt": "2021-04-16T19:51:14.313Z",
+                    "updatedAt": "2021-04-16T19:51:14.313Z"
+                }
+            ],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2642,
+                        289
+                    ],
+                    [
+                        2710,
+                        359
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

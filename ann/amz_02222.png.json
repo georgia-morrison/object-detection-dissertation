@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118615882,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:52:04.396Z",
+            "updatedAt": "2020-10-10T12:52:04.396Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 889993767,
+            "classId": 9993506,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:29:42.859Z",
+            "updatedAt": "2020-10-10T12:29:42.859Z",
+            "tags": [],
+            "classTitle": "yellow_cone",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        367
+                    ],
+                    [
+                        298,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889993766,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:29:42.859Z",
+            "updatedAt": "2020-10-10T12:29:42.859Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1297,
+                        195
+                    ],
+                    [
+                        1302,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 889993765,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-10-10T12:29:42.859Z",
+            "updatedAt": "2020-10-10T12:29:42.859Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1319,
+                        195
+                    ],
+                    [
+                        1323,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

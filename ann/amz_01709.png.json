@@ -1,0 +1,68 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118616773,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:48:45.331Z",
+            "updatedAt": "2020-11-12T08:48:45.331Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890008033,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:28:48.320Z",
+            "updatedAt": "2020-11-12T08:28:48.320Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2332,
+                        362
+                    ],
+                    [
+                        2464,
+                        494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890008032,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-12T08:28:48.320Z",
+            "updatedAt": "2020-11-12T08:28:48.320Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        246,
+                        276
+                    ],
+                    [
+                        276,
+                        314
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

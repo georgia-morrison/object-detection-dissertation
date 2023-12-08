@@ -1,0 +1,116 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118616540,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:54:24.108Z",
+            "updatedAt": "2020-11-02T08:54:24.108Z"
+        }
+    ],
+    "size": {
+        "height": 920,
+        "width": 2872
+    },
+    "objects": [
+        {
+            "id": 890002221,
+            "classId": 9993511,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:45.286Z",
+            "updatedAt": "2020-11-02T08:42:45.286Z",
+            "tags": [],
+            "classTitle": "blue_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2026,
+                        404
+                    ],
+                    [
+                        2162,
+                        557
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890002220,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:45.286Z",
+            "updatedAt": "2020-11-02T08:42:45.286Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2499,
+                        188
+                    ],
+                    [
+                        2517,
+                        214
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890002219,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:45.286Z",
+            "updatedAt": "2020-11-02T08:42:45.286Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2249,
+                        208
+                    ],
+                    [
+                        2270,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890002218,
+            "classId": 9993514,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "fsocov2",
+            "createdAt": "2020-11-02T08:42:45.286Z",
+            "updatedAt": "2020-11-02T08:42:45.286Z",
+            "tags": [],
+            "classTitle": "unknown_cone",
+            "points": {
+                "exterior": [
+                    [
+                        2699,
+                        173
+                    ],
+                    [
+                        2713,
+                        194
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
