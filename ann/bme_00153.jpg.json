@@ -1,0 +1,88 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118617981,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:57:38.465Z",
+            "updatedAt": "2021-02-02T21:57:38.465Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890029055,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:54:57.174Z",
+            "updatedAt": "2021-02-02T21:54:57.174Z",
+            "tags": [
+                {
+                    "id": 135984614,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-02-02T21:54:57.174Z",
+                    "updatedAt": "2021-02-02T21:54:57.174Z"
+                }
+            ],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        1055
+                    ],
+                    [
+                        666,
+                        1219
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890029054,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:54:57.174Z",
+            "updatedAt": "2021-02-02T21:54:57.174Z",
+            "tags": [
+                {
+                    "id": 135984613,
+                    "tagId": 30143182,
+                    "name": "truncated",
+                    "value": null,
+                    "labelerLogin": "vniclas",
+                    "createdAt": "2021-02-02T21:54:57.174Z",
+                    "updatedAt": "2021-02-02T21:54:57.174Z"
+                }
+            ],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1595,
+                        787
+                    ],
+                    [
+                        1683,
+                        918
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 118618030,
+            "tagId": 30143178,
+            "name": "train",
+            "value": null,
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:57:40.096Z",
+            "updatedAt": "2021-02-02T21:57:40.096Z"
+        }
+    ],
+    "size": {
+        "height": 1360,
+        "width": 2200
+    },
+    "objects": [
+        {
+            "id": 890029992,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:54:58.595Z",
+            "updatedAt": "2021-02-02T21:54:58.595Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        750,
+                        720
+                    ],
+                    [
+                        922,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890029991,
+            "classId": 9993512,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:54:58.595Z",
+            "updatedAt": "2021-02-02T21:54:58.595Z",
+            "tags": [],
+            "classTitle": "orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1167,
+                        641
+                    ],
+                    [
+                        1290,
+                        796
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 890029990,
+            "classId": 9993513,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vniclas",
+            "createdAt": "2021-02-02T21:54:58.595Z",
+            "updatedAt": "2021-02-02T21:54:58.595Z",
+            "tags": [],
+            "classTitle": "large_orange_cone",
+            "points": {
+                "exterior": [
+                    [
+                        1481,
+                        528
+                    ],
+                    [
+                        1622,
+                        711
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
