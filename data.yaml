@@ -1,0 +1,16 @@
+train: ../object-detection-dissertation/img/train/ 
+val:  ../object-detection-dissertation/img/val/ 
+test: ../object-detection-dissertation/img/test/ 
+
+# number of classes
+nc: 6
+
+# class names
+names:
+  0: Yellow Cone
+  1: Blue Cone
+  2: Orange Cone
+  3: Large Orange Cone
+  4: Unknown Cone
+  5: No Class
+
