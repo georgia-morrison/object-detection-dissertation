@@ -1,6 +1,6 @@
-train: ../object-detection-dissertation/img/train/ 
-val:  ../object-detection-dissertation/img/val/ 
-test: ../object-detection-dissertation/img/test/ 
+train: ../object-detection-dissertation/train/images/
+val:  ../object-detection-dissertation/val/images/
+test: ../object-detection-dissertation/test/images/ 
 
 # number of classes
 nc: 6
